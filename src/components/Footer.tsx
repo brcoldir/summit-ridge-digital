@@ -20,7 +20,7 @@ function ContactColumn() {
       <a href={`mailto:${site.email}`}>{site.email}</a>
       <span>
         {site.location}
-        {" and working worldwide"}
+        {" and working in the United States"}
       </span>
     </div>
   );

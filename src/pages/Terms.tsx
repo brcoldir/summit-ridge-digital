@@ -71,9 +71,9 @@ export function Terms() {
         </p>
         <h2>Governing law</h2>
         <p>
-          These terms are governed by the laws of the State of Indiana, without
+          These terms are governed by the laws of the State of Nevada, without
           regard to conflict of law principles. Any dispute will be brought in a
-          court with jurisdiction in Indiana, unless applicable law requires
+          court with jurisdiction in Nevada, unless applicable law requires
           otherwise.
         </p>
         <h2>Changes to these terms</h2>

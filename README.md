@@ -11,8 +11,9 @@ The live multi-page site was built and deployed around Aug 9, 2026, but its sour
 - `public/` holds the live images, favicon and `vite.svg`. `ad-ai-automation.png` is not referenced by the site, but it is in the live bucket, so it is kept.
 - `lambda-contact/` is the code currently deployed to the `summitridge-contact` Lambda (last updated Aug 9, 2026). Its `package.json` refers to an `index.test.cjs` that was not part of the deployed package.
 - The one intentional change from the Aug 9 build is the footer: both footer variants read "Copyright {year} Summit Ridge Digital. Founded by Ocean Coldiron", linking to https://oceancoldiron.com. That edit is already live.
+- Location update (Nov 15, 2026, not yet deployed): the footer contact line reads "Las Vegas, Nevada and working in the United States" (was "South Bend, Indiana and working worldwide"), and the Terms of Use governing law and venue are Nevada (was Indiana).
 
-Comparing against the live site at 1280 px and 390 px widths showed pixel-identical screenshots, the same visible text, titles, descriptions and links on every route, and the same behavior for the menu, FAQs and contact form (see `scripts/`).
+Before the location update, comparing against the live site at 1280 px and 390 px widths showed pixel-identical screenshots, the same visible text, titles, descriptions and links on every route, and the same behavior for the menu, FAQs and contact form (see `scripts/`).
 
 ## Structure
 

@@ -2,7 +2,7 @@ import type { Faq, ProcessStep, Service, Tier } from "./types";
 
 export const site = {
   email: "ocean@summitridgedigital.com",
-  location: "South Bend, Indiana",
+  location: "Las Vegas, Nevada",
   heroTitle: "AI systems that move your service business forward.",
   heroLead:
     "We build practical automations, lead-response systems, and conversion-focused websites around the tools your team already uses.",
