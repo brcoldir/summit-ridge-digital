@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test index.test.cjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@aws-sdk/client-ses": "^3.953.0"
+    "@aws-sdk/client-ses": "^3.953.0",
+    "stripe": "^16.0.0"
   }
 }
